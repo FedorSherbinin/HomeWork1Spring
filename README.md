@@ -30,11 +30,20 @@ markdown
 2. Клонируйте репозиторий:
 
    ```bash
-   git clone <https://github.com/FedorSherbinin/HomeWork1Spring.git>
+   git clone https://github.com/FedorSherbinin/HomeWork1Spring.git
+
+3. Перейдите в нужную директорию:
+   
+   ```bash
    cd mavenweb
-3. Выполните команду для загрузки зависимостей и сборки проекта: mvn clean install
+   
+4. Выполните команду для загрузки зависимостей и сборки проекта:
 
-4. Запуск
-Для запуска веб-приложения с использованием Jetty выполните следующую команду: mvn jetty:run
+   ```bash
+   mvn clean install
 
-5. Приложение будет доступно по адресу: http://localhost:8080.
+5. Для запуска веб-приложения с использованием Jetty выполните следующую команду:
+   ```bash
+   mvn jetty:run
+
+6. Приложение будет доступно по адресу: http://localhost:8080.

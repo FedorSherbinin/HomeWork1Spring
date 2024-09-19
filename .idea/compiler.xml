@@ -9,5 +9,10 @@
         <module name="mavenweb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HomeWork1Spring.app" target="11" />
+      <module name="HomeWork1Spring.app.main" target="11" />
+      <module name="HomeWork1Spring.app.test" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
