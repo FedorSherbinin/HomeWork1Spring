@@ -48,7 +48,7 @@ markdown
 
 6. Приложение будет доступно по адресу: http://localhost:8080.
 
-#Сравнение Maven и Gradle
+##Сравнение Maven и Gradle
 
 
 | Характеристика              | Maven                                          | Gradle                                        |
